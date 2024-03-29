@@ -1,10 +1,11 @@
-# 💁 Large Language Model Cheat Sheet 📝
+![image](https://github.com/Blass2000/Large-Language-Models-/assets/89789502/41cfde0e-8f7b-45bb-8141-418595478e77)# 💁 Large Language Model Reference 📝
 
 **The LLM (Language Model) Cheatsheet** is a quick reference guide that provides an overview of the key concepts and techniques related to natural language processing (NLP) and language modeling. It is designed to be a helpful tool for both beginners and advanced practitioners in the field of NLP.
 
 | Page 1                                                       | Page 2                                                       |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| ![image](https://github.com/Blass2000/Large-Language-Models-/assets/89789502/6ca572c3-0d9f-4feb-b191-908ebcaae7ae) | ![](https://raw.githubusercontent.com/ashishpatel26/CheatSheet-LLM/main/Images/Slide2.PNG) |
+| ![image](https://github.com/Blass2000/Large-Language-Models-/assets/89789502/6ca572c3-0d9f-4feb-b191-908ebcaae7ae) | ![image](https://github.com/Blass2000/Large-Language-Models-/assets/89789502/0559d6c2-37b7-4f32-ada8-55b80f3f3061)
+ |
 | **Page 3**                                                   |                                                              |
 | ![](https://raw.githubusercontent.com/ashishpatel26/CheatSheet-LLM/main/Images/Slide3.PNG) |                                                              |
 
