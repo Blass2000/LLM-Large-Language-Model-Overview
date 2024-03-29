@@ -4,7 +4,8 @@
 
 | Page 1                                                       | Page 2                                                       |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| ![](https://raw.githubusercontent.com/ashishpatel26/CheatSheet-LLM/main/Images/Slide1.PNG) | ![](https://raw.githubusercontent.com/ashishpatel26/CheatSheet-LLM/main/Images/Slide2.PNG) |
+| ![image](https://github.com/Blass2000/Large-Language-Models-/assets/89789502/6ca572c3-0d9f-4feb-b191-908ebcaae7ae)
+![](https://raw.githubusercontent.com/ashishpatel26/CheatSheet-LLM/main/Images/Slide1.PNG) | ![](https://raw.githubusercontent.com/ashishpatel26/CheatSheet-LLM/main/Images/Slide2.PNG) |
 | **Page 3**                                                   |                                                              |
 | ![](https://raw.githubusercontent.com/ashishpatel26/CheatSheet-LLM/main/Images/Slide3.PNG) |                                                              |
 
