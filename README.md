@@ -6,8 +6,10 @@
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | ![image](https://github.com/Blass2000/Large-Language-Models-/assets/89789502/6ca572c3-0d9f-4feb-b191-908ebcaae7ae) | ![image](https://github.com/Blass2000/Large-Language-Models-/assets/89789502/0559d6c2-37b7-4f32-ada8-55b80f3f3061)
  |
-| **Page 3**                                                   |                                                              |
-| ![](https://raw.githubusercontent.com/ashishpatel26/CheatSheet-LLM/main/Images/Slide3.PNG) |                                                              |
+| **Page 3**   
+![image](https://github.com/Blass2000/Large-Language-Models-/assets/89789502/f2c1394f-3734-44cb-a5b3-eb8df85e2d4d)
+|                                                              |
+|  |                                                              |
 
 
 
