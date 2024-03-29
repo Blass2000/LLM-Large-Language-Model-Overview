@@ -1,8 +1,8 @@
 **The LLM (Language Model) Cheatsheet** is a quick reference guide that provides an overview of the key concepts and techniques related to natural language processing (NLP) and language modeling. It is designed to be a helpful tool for both beginners and advanced practitioners in the field of NLP.
 
-| Page 1      ![image](https://github.com/Blass2000/Large-Language-Models-/assets/89789502/41cfde0e-8f7b-45bb-8141-418595478e77)#                                                 | Page 2                                                       |
+| Page 1      ![image](https://github.com/Blass2000/Large-Language-Models-/assets/89789502/41cfde0e-8f7b-45bb-8141-418595478e77)#           
+| Page 2                                                       |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-|
 ![image](https://github.com/Blass2000/Large-Language-Models-/assets/89789502/6ca572c3-0d9f-4feb-b191-908ebcaae7ae) | 
 | **Page 3**   
 ![image](https://github.com/Blass2000/Large-Language-Models-/assets/89789502/f2c1394f-3734-44cb-a5b3-eb8df85e2d4d)
