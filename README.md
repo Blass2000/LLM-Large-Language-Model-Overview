@@ -1,4 +1,12 @@
 **The LLM (Language Model) Cheatsheet** is a quick reference guide that provides an overview of the key concepts and techniques related to natural language processing (NLP) and language modeling. It is designed to be a helpful tool for both beginners and advanced practitioners in the field of NLP.
+So what is it again ?
+Large Language Models (LLMs) are advanced artificial intelligence systems that have the ability to understand, generate, and interpret human language at a remarkable level of complexity. Built on vast amounts of text data, these models are trained through sophisticated machine learning algorithms to recognize patterns, nuances, and the semantics of language, enabling them to perform a wide range of natural language processing tasks. From completing sentences to generating coherent paragraphs, translating languages, answering questions, and even creating content that mimics human writing styles, LLMs have shown capabilities that were once thought to be exclusively human.
+
+The impact of LLMs is becoming increasingly significant in today's computing world for several reasons. First, they offer an intuitive way for humans to interact with machines, making technology more accessible to a broader audience. This has implications for enhancing user interfaces, automating customer service, and creating more engaging and personalized digital experiences.
+
+Second, LLMs are proving to be invaluable tools in fields requiring the processing and analysis of large volumes of text data. In sectors such as healthcare, law, and education, LLMs are being used to sift through documents, summarize information, generate reports, and even assist in research by providing insights that would take humans much longer to compile.
+
+Moreover, the ability of LLMs to generate new content based on given inputs is being harnessed in creative industries to produce literature, write scripts, compose music, and create artwork, pushing the boundaries of artificial creativity.
 
 | Page 1      ![image](https://github.com/Blass2000/Large-Language-Models-/assets/89789502/41cfde0e-8f7b-45bb-8141-418595478e77)#           
 | Page 2                                                       |
