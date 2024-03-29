@@ -11,12 +11,12 @@
 
 
 
-## :information_desk_person: Introduction
+## Introduction
 
 Large language models are a type of machine learning model that are trained on vast amounts of natural language data. They use deep learning algorithms to learn patterns in the data and can generate human-like text, translate between languages, and perform a wide range of other tasks.
 Key Concepts
 
-## 🎯 Purpose
+## Purpose
 
 The purpose of the LLM Cheatsheet is to provide a quick and easy-to-use reference guide for NLP practitioners. It covers a wide range of topics related to language modeling and provides a high-level overview of the most essential concepts and techniques in the field. These models are designed to process natural language data and perform various tasks, including text generation, translation, sentiment analysis, and more.
 
@@ -24,7 +24,7 @@ The purpose of the LLM Cheatsheet is to provide a quick and easy-to-use referenc
 
 1️⃣ **Preprocessing:** The input data must be preprocessed before training a language model. This involves cleaning the text, tokenizing it into individual words or subwords, and encoding it in a format that can be fed into the model.
 
-2️⃣ **Fine-tuning:** Large language models are often trained on large datasets, but they can also be fine-tuned on smaller, domain-specific datasets to improve their performance on specific tasks.
+2️⃣ **Fine-tuning:** Large language models are often trained on large datasets but, they can also be fine-tuned on smaller, domain-specific datasets to improve their performance on specific tasks.
 
 3️⃣ **Generation:** Language models can generate text by predicting the next word in a sequence, or by sampling from a distribution of possible words.
 
@@ -75,27 +75,5 @@ Quick reference guide: Use it as a quick reference when working on NLP projects 
 
 ---
 
-#### **If you like this do star to this repo ⭐ and contributes...💁💁💁**
-
----
-Citation: If you found this useful for your academic work, please consider citing our work, in text:
-
-```Abonia S.,  Ashish P., "Large Languge model(LLM) CheatSheet", Medium-Github, 2023.```
-
-BibTeX citation:
-
-```
-  @article{2023illustrating,
-  author = {Abonia,  Ashish},
-  title = {Large Languge model(LLM) CheatSheet},
-  journal = {Medium-Github},
-  year = {2023},
-  note = {https://www.linkedin.com/in/aboniasojasingarayar/, https://www.linkedin.com/in/ashishpatel2604/},
-}
-```
-
----
-
-***Thanks for reading...🙏🙏🙏***
 
 ---
